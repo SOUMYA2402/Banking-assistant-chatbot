@@ -1,5 +1,4 @@
-# Banking-assistant-chatbot
-# 💬 Banking FAQ Chatbot
+**Banking-assistant-chatbot**
 
 A conversational **Banking FAQ Chatbot** built with **Flask**, **Sentence Transformers**, **FAISS**, and **Google Gemini API**.  
 It helps users get instant answers to common banking-related queries using semantic search and AI-powered responses.  

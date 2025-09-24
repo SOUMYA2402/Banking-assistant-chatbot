@@ -5,7 +5,7 @@ A conversational **Banking FAQ Chatbot** built with **Flask**, **Sentence Transf
 It helps users get instant answers to common banking-related queries using semantic search and AI-powered responses.  
 The project also includes a modern **chat UI** for a user-friendly experience.
 
-##Features##
+**Features**
 - Semantic search using **FAISS** to find the most relevant FAQ.  
 - Embeddings generated with **Sentence Transformers** (`all-MiniLM-L6-v2`).  
 - AI-powered responses using **Google Gemini API**.  
@@ -15,7 +15,7 @@ The project also includes a modern **chat UI** for a user-friendly experience.
   - Chat bubbles (Messenger/WhatsApp style)  
 - REST API (`/ask`) + Chat UI (`/chat`).  
 
-##Tech Stack##
+**Tech Stack**
 - **Backend**: Flask (Python)  
 - **Semantic Search**: FAISS  
 - **Embeddings**: Sentence Transformers  
